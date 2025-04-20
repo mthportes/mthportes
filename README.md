@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>Desenvolvedor Mobile</strong> <br/>
-  📍 Curitiba, Brasil &nbsp;&nbsp;🌐 Português | Inglês <br/>
+  📍 Curitiba, Brasil &nbsp;&nbsp; <br/>
+  🌐 Português | Inglês <br/>
   🧑‍💻 Freelancer disponível
 </p>
 
@@ -20,11 +21,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mthportes&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthportes&layout=compact&langs_count=6&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mthportes&theme=radical&no-bg=true&margin-w=10"/>
 </div>
 
 ---

@@ -32,7 +32,7 @@
 ### 🐍 Contribuição
 
 <div align="center">
-  <img src="https://github.com/mthportes/mthportes/blob/main/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/mthportes/mthportes/blob/main/dist/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---

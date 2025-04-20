@@ -29,7 +29,7 @@
 
 ---
 
-### 🐍 Snake de contribuição
+### 🐍 Contribuição
 
 <div align="center">
   <img src="https://github.com/mthportes/mthportes/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
@@ -58,10 +58,4 @@
 - 🔥 Apaixonado por tecnologia, design e experiências mobile incríveis  
 - 🧠 Sempre aprendendo novas formas de criar apps interativos e animados  
 - 💼 Pronto para colaborações e freelas
-
----
-
-### <p align="center">
-###  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Bora+codar+com+Flutter!;Design+%2B+Código+%3D+%E2%9D%A4;Mobile+%F0%9F%93%B1+first+sempre" alt="Typing SVG" />
-### </p>
 
